@@ -33,4 +33,4 @@ form.addEventListener('submit', (e) => {
         show.innerHTML = newitemText;
     }
 
-})
+});
